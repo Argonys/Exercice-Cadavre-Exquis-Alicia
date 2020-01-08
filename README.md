@@ -1,3 +1,3 @@
 # Exercice-Cadavre-Exquis-Alicia
 
-<big>Le petit escargot</big>
+<strong>Le petit escargot</strong>
